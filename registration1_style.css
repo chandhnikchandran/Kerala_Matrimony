@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: whitesmoke;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    height: 800px;
+}
+
+#top_p {
+    font-size: small;
+}
+
+.icon {
+    margin-top: -10px;
+}
+
+.content {
+    width: 500px;
+    height: 520px;
+    position: absolute;
+    background: white;
+    margin-top: -10px;
+}
+
+.cont1 {
+    width: 400px;
+    height: 520px;
+    position: absolute;
+    background: #009d00;
+    margin-top: 0px;
+}
+
+.cont2 {
+    width: 750px;
+    height: 520px;
+    margin-left: 80%;
+    position: absolute;
+    background: white;
+    margin-top: 0px;
+}
+
+#top_p1 {
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 800px;
+}
+
+#no {
+    font-size: x-large;
+}
+
+#img {
+    margin-left: 120px;
+    height: 150px;
+    width: 150px;
+    margin-top: 100px;
+    position: absolute;
+}
+
+.head {
+    color: white;
+    margin-top: 300px;
+    margin-left: 40px;
+}
+
+#head1 {
+    margin-left: 40px;
+    position: absolute;
+}
+
+#no {
+    font-size: x-large;
+}
+
+.details {
+    position: absolute;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lb1 {
+    color: #BDBDBD;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+#date {
+    width: 250px;
+    height: 30px;
+}
+
+input {
+    outline: 0;
+    border-width: 0 0 3px;
+    border-color: gainsboro;
+}
+
+select {
+    outline: 0;
+    border-width: 0 0 3px;
+    border-color: gainsboro;
+}
+
+#drop1 {
+    width: 250px;
+    height: 30px;
+}
+
+#drop2 {
+    width: 250px;
+    height: 30px;
+}
+
+#email {
+    width: 250px;
+    height: 30px;
+}
+
+#pwd {
+    width: 250px;
+    height: 30px;
+}
+
+#lb2 {
+    color: #BDBDBD;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+#lb3 {
+    color: #BDBDBD;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+#lb4 {
+    color: #BDBDBD;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+#lb5 {
+    color: #BDBDBD;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 165px;
+    margin-top: 30px;
+}
+
+#button {
+    margin-left: 255px;
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    border-radius: 10px;
+    background: #FF8C00;
+    color: white;
+}
+
+#footer {
+    margin-left: 400px;
+    position: absolute;
+    margin-top: 550px;
+}
